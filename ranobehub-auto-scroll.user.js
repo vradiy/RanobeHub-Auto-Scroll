@@ -1,7 +1,10 @@
 // ==UserScript==
-// @name         RanobeHub Auto Scroll
-// @version      0.2
-// @description  Automatically scrolls the page to center the highlighted paragraph on RanobeHub
+// @name         Autoscroll script for speech synthesizer in RanobeHub
+// @name:ru      Скрипт автоматической прокрутки для синтезатора речи в RanobeHub
+// @namespace    https://github.com/vradiy/ranobehub-auto-scroll
+// @version      0.4
+// @description  Centers the screen on the speech synthesized paragraph RanobeHub
+// @description:ru Центрирует экран на озвучиваемом синтезатором речи абзаце RanobeHub
 // @author       vrady
 // @match        https://ranobehub.org/ranobe/*
 // @grant        none
